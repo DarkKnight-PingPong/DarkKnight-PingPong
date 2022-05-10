@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DarkKnight-PingPong
+- 👋 Hi, I’m Rishikesh Kumar
 - 👀 India's Youngest Certified Ethical Hacker {echo CEH}
 - 🌱 I’m currently in class 12...
 

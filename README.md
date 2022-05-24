@@ -1,7 +1,7 @@
 
 
-https://user-images.githubusercontent.com/61688224/170112084-a733552c-1196-4b77-b97d-aabd05122270.mp4
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+https://user-images.githubusercontent.com/61688224/170112084-a733552c-1196-4b77-b97d-aabd05122270.gif
+
 - 👋 Hi, I’m Rishikesh Kumar
 - 👀 India's Youngest Certified Ethical Hacker {echo CEH}
 - 🌱 I’m currently in class 12...

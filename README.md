@@ -5,7 +5,6 @@
 
 - 👋 Hi, I’m Rishikesh Kumar
 - 👀 India's Youngest Certified Ethical Hacker {echo CEH}
-- 🌱 I’m currently in class 12...
 - I Love Eating, Sleeping, And Hacking
 <!---
 DarkKnight-PingPong/DarkKnight-PingPong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
